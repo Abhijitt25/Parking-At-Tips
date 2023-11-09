@@ -1,4 +1,4 @@
-# Smart Parking in Metroolitian Cities
+# Smart Parking in Metropolitian Cities
 ## 📌 Repository
 
 

@@ -1,7 +1,7 @@
-# Smart Parking in Metropolitian Cities...🚦🅿️🚦  🚗 🚙
+# Smart Parking in Metropolitian Cities..🚦🅿️🚦 🚗 🚙
 ## 📌 Repository
 
-## 🚗 SRS Document
+##  SRS Document
 
 
     

@@ -1,4 +1,9 @@
 # Parking-At-Tips
 ## Title : Parking-At-Tips
 ## Objective (Purpose) :
-                        This web application provides the facility to book the online parking slot close to your distination. Before that user have to register and login in website with help of phone number or email. 
+                        This web application provides the facility to book the online parking slot close to your distination. Before that user have to register and login in website with help of phone number or email id. 
+## Scope :
+
+## Functional Requirements :
+ - User :
+          User will be able to create a profile & register name using mobile number and email id.

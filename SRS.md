@@ -8,7 +8,7 @@ Parking-At-Tips
 This web application provides the facility to book the online parking slot close to user destination. Before that user have to register and login in website with help of mobile number or email id.
 
 
-## FUNCTIONAL REQUIREMENTS :
+FUNCTIONAL REQUIREMENTS :
 - USER 🙎‍♂️:
 
   User will be able to create a profile & register name using mobile number and email id.

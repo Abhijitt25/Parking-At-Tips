@@ -1,5 +1,6 @@
 # PARKING-AT-TIPS
-## TITLE : Parking-At-Tips
+## TITLE :
+Parking-At-Tips
 ## OBJECTIVE (Purpose) :
 
 
@@ -14,5 +15,28 @@ This web application provides the facility to book the online parking slot close
   After registration user can book and reserve parking slot close to user destination.
   User will able to see parking space and parking area(paid or unpaid) close to user destination.
   POP up notification should be send to the registerd user about confirmation of booked parking slot.
-  If parking area is paid then payment fees will be shown to user and payment done in online mode for reservation of parking slot. 
+  If parking area is paid then payment fees will be shown to user and payment done in online mode for reservation of parking slot.
+
+##NONFUNCTIONAL REQUIREMENT:
+SECURITY:
+
+RELIABILITY:
+
+AVAILABILITY:
+uptime: 24* 7 available 99.999%
+
+MAINTAINABILITY:
+
+PORTABILITY:
+
+ACCESSIBILITY:
+
+EFFICIENCY:
+
+MODULARITY:
+
+SCALABILITY:
+
+SAFETY:
+
 

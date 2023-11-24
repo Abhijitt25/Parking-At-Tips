@@ -2,7 +2,7 @@
 ## TITLE :
 Parking-At-Tips
 ## OBJECTIVE (Purpose) :
-In urban areas parking is the biggest issue which leads to impact on environment(increase in noice as well as air pollution).If we will provide them the right webapp which will help to find the parrking areas along with available paces,it will help to reduse the traffic issue,control the pollution and save the time also.
+In urban areas parking is the biggest issue which leads to impact on environment(increase in noice as well as air pollution).If we will provide them the right webapp which will help to find the parrking areas along with available paces,it will help to reduse the traffic issue,control the pollution and save the time also
 
 
 ## SCOPE :

@@ -2,6 +2,7 @@
 ## TITLE :
 Parking-At-Tips
 ## OBJECTIVE (Purpose) :
+In urban areas parking is the biggest issue which leads to impact on environment(increase in noice as well as air pollution).If we will provide them the right webapp which will help to find the parrking areas along with available paces,it will help to reduse the traffic issue,control the pollution and save the time also.
 
 
 ## SCOPE :
@@ -18,25 +19,25 @@ This web application provides the facility to book the online parking slot close
   If parking area is paid then payment fees will be shown to user and payment done in online mode for reservation of parking slot.
 
 ##NONFUNCTIONAL REQUIREMENT:
-SECURITY:
+1.SECURITY:Users data and other related information will be secured.Only authorised person will perform administrative tasks.
 
-RELIABILITY:
+2.RELIABILITY:
 
-AVAILABILITY:
-uptime: 24* 7 available 99.999%
+3.AVAILABILITY:
+4.uptime: 24* 7 available 99.999%
 
-MAINTAINABILITY:
+5.MAINTAINABILITY:
 
-PORTABILITY:
+6.PORTABILITY:
 
-ACCESSIBILITY:
+7.ACCESSIBILITY:
 
-EFFICIENCY:
+8.EFFICIENCY:
 
-MODULARITY:
+9.MODULARITY:
 
-SCALABILITY:
+10.SCALABILITY:
 
-SAFETY:
+11.SAFETY:
 
 

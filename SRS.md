@@ -1,4 +1,4 @@
-# PARKING-AT-TIPS
+di# PARKING-AT-TIPS
 ## TITLE :
 Parking-At-Tips
 ## OBJECTIVE (Purpose) :
@@ -37,7 +37,7 @@ This web application provides the facility to book the online parking slot close
 
 9.MODULARITY:
 
-10.SCALABILITY:
+10.SCALABILITY:system is designed in such a way that it will handle the increased user data and add new parking slots.It will support the horizontal scaling.
 
 11.SAFETY:
 

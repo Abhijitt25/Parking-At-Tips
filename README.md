@@ -1,4 +1,4 @@
-# Smart Parking System Project Outline
+# Smart Parking In Metropolitian Cities
 ## Frontend (HTML and React):
 ## Homepage:
 

@@ -83,7 +83,7 @@ CREATE TABLE `parkings` (
 --
 
 INSERT INTO `parkings` (`id`, `location`, `street`, `name`, `slot`, `remaining_slots`, `attendant`, `date`, `price`) VALUES
-(5, 'Mombasa', 'Tudor', 'Tudor', 150, '151', 'nyali', '2017-10-31 11:45:59', '500');
+(5, 'Pune', 'Gokhlenagar', 'Shubham', 150, '151', 'Shivani', '2023-11-28 11:45:5', '500');
 
 -- --------------------------------------------------------
 

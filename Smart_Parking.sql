@@ -1,11 +1,4 @@
--- phpMyAdmin SQL Dump
--- version 4.5.4.1deb2ubuntu2
--- http://www.phpmyadmin.net
---
--- Host: localhost
--- Generation Time: Dec 11, 2017 at 05:52 PM
--- Server version: 5.7.20-0ubuntu0.16.04.1
--- PHP Version: 7.0.22-0ubuntu0.16.04.1
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -17,7 +10,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `smart_users`
+-- Database: `Smart_Parking_In_Metropolitian_Cities`
 --
 
 -- --------------------------------------------------------
@@ -38,7 +31,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `password`, `email`) VALUES
-(2, 'king', 'king123', 'king@gmail.com'),
+(2, 'Sourabh', 'Sourabh123', 'slowanshi21@gmail.com'),
 (3, 'admin', 'admin123', 'admin@gmail.com');
 
 -- --------------------------------------------------------
@@ -62,10 +55,10 @@ CREATE TABLE `attendant` (
 --
 
 INSERT INTO `attendant` (`id_attendant`, `Fname`, `Lname`, `mobile_no`, `location`, `username`, `password`) VALUES
-(1, 'karis', 'kelvin', '070824555', 'msa', 'kk', '12045'),
-(2, 'king', 'doshi', '0708009360', 'Nairobi', 'kd', '12345'),
-(3, 'james', 'peter', '0708009360', 'voi', 'jp', '12345'),
-(4, 'francis', 'mwakidoshi', '0708009360', 'nyali', 'nyali', 'nyali');
+(1, 'Rahul', 'Lowanshi', '070824555', 'msa', 'kk', '12045'),
+(2, 'Blackpearl', 'Lowanshi', '0708009360', 'Nairobi', 'kd', '12345'),
+(3, 'Shivani', 'Lowanshi', '0708009360', 'voi', 'jp', '12345'),
+(4, 'Rakesh', 'Lowanshi', '0708009360', 'nyali', 'nyali', 'nyali');
 
 -- --------------------------------------------------------
 
@@ -114,13 +107,13 @@ CREATE TABLE `requests` (
 --
 
 INSERT INTO `requests` (`id`, `parking_id`, `slots`, `hours`, `cost`, `customer`, `time`, `status`) VALUES
-(7, 1, '2', 2, 800, 'king@gmail.com', '2017-06-17 18:42:38', 'Completed'),
-(8, 5, '4', 2, 4000, 'test@gmail.com', '2017-06-17 19:29:58', 'requested'),
-(9, 1, '1', 1, 200, 'king@gmail.com', '2017-06-18 19:14:44', 'Completed'),
-(10, 1, '', 23, 4600, 'king@gmail.com', '2017-06-19 16:04:27', 'Completed'),
-(11, 5, '1', 6, 1200, 'john@gmail.com', '2017-06-23 05:35:59', 'Completed'),
-(12, 1, '1', 4, 800, 'king@gmail.com', '2017-07-21 12:19:29', 'requested'),
-(13, 5, '1', 2, 1000, 'dan@gmail.com', '2017-10-31 14:45:59', 'requested');
+(7, 1, '2', 2, 800, 'Ashish@gmail.com', '2017-06-17 18:42:38', 'Completed'),
+(8, 5, '4', 2, 4000, 'dhruv@gmail.com', '2017-06-17 19:29:58', 'requested'),
+(9, 1, '1', 1, 200, 'anshu@gmail.com', '2017-06-18 19:14:44', 'Completed'),
+(10, 1, '', 23, 4600, 'kiran@gmail.com', '2017-06-19 16:04:27', 'Completed'),
+(11, 5, '1', 6, 1200, 'omkar@gmail.com', '2017-06-23 05:35:59', 'Completed'),
+(12, 1, '1', 4, 800, 'bhushan@gmail.com', '2017-07-21 12:19:29', 'requested'),
+(13, 5, '1', 2, 1000, 'sanket@gmail.com', '2017-10-31 14:45:59', 'requested');
 
 -- --------------------------------------------------------
 
@@ -141,13 +134,11 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `password`, `password_confirm`) VALUES
-(1, 'john', 'john@gmail.com', 'john1234', 'john1234'),
-(2, 'king', 'king@gmail.com', 'king1234', 'king1234'),
-(3, 'john', 'kuku@gmail.com', '123456789', '123456789'),
-(4, 'rapho', 'rapho@gmail.com', '123456789', '123456789'),
-(5, 'patty', 'patty@gmail.com', 'king12345', 'king12345'),
-(7, 'Dan', 'dan@gmail.com', '$2y$10$OWWnE8vrh0EKvnbBhjgVYu5oV21m36Exi9l8y7wfwZ3VRkuolmNFu', '$2y$10$LIE8WLMnBogS625KGhqqZOszGdxmtCLyIR1bNTI2hg13VMrabZaoa'),
-(8, 'king', 'test@gmail.com', '$2y$10$WZUiLaha1ZLII0KE0ev55uFW3ECjX3WhVjydS37r5PqLkrscyU2k.', '$2y$10$ro2qv7h841xx9go4L9lq/uQXSkj8nQ1DT89RF/NroJ15VtHT2b3uu');
+(1, 'Sourabh', 'slowanshi21@gmail.com', 'sour1234', 'sour1234'),
+(2, 'abhijeet', 'abhijeet@gmail.com', 'abhijeet1234', 'abhijeet1234'),
+(3, 'Sayali', 'Sayali@gmail.com', '123456789', '123456789'),
+(4, 'Bhavesh', 'Bhavesh@gmail.com', '123456789', '123456789'),
+(5, 'prashant', 'prashant@gmail.com', 'prashant12345', 'prashant12345'),
 
 --
 -- Indexes for dumped tables

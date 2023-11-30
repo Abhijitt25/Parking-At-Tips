@@ -44,50 +44,51 @@ This web application provides the facility to book the online parking slot close
 
 ## NONFUNCTIONAL REQUIREMENT:
 ### SECURITY:
-   i. Users data and other related information will be secured.
-   ii.Only authorised person will perform administrative tasks.
+   * Users data and other related information will be secured.
+   * Only authorised person will perform administrative tasks.
 
 ### RELIABILITY: 
-   The Web Site should be highly available and minimum downtime. Data backups and disaster recovery mechanisms should be in place to prevent data 
+ * The Web Site should be highly available and minimum downtime. Data backups and disaster recovery mechanisms should be in place to prevent data 
    loss.
 
 ### AVAILABILITY:
-   uptime: 24* 7 available 99.999%
+ * Uptime: 24* 7 available 99.999%
 
 ### PERFORMANCE:
-   The web site should respond to user requests within an acceptable time frame. The web site should handle multiple concurrent users without 
+ * The web site should respond to user requests within an acceptable time frame. The web site should handle multiple concurrent users without 
     significant performance degradation.
 
 ### PORTABILITY:
- i. The system will provide a portable User Interface (HTML, CSS, Angular) through which users will access the web application.
+ * The system will provide a portable User Interface (HTML, CSS, Angular) through which users will access the web application.
  
 ### ACCESSIBILITY:
- i. Registered and non-registered users will be able to access the website, but if you want to book the parking slot then you need to registered 
+ * Registered and non-registered users will be able to access the website, but if you want to book the parking slot then you need to registered 
      after authentication.
 
 ###  EFFICIENCY:
- i. During peak hours, the system will maintain the same user experience by managing load balancing.
- ii.The system will be able to manage all transactions in isolation.
+ * During peak hours, the system will maintain the same user experience by managing load balancing.
+ * The system will be able to manage all transactions in isolation.
 
 ### MODULARITY:
  * This requirement emphasizes the importance of designing the smart parking system as a set of modular components that can be easily integrated, 
     replaced, or scaled as needed.
- ii. system will adapt to changing requirements and technologies over time, reducing the overall cost of ownership and maintenance. 
- iii. the system should provide clear documentation and support for developers and integrators to facilitate the customization and extension of the 
+ * system will adapt to changing requirements and technologies over time, reducing the overall cost of ownership and maintenance. 
+ * the system should provide clear documentation and support for developers and integrators to facilitate the customization and extension of the 
       system's functionalities.
 
 ### SCALABILITY:
-  i.The smart parking system should be able to handle a large number of users and vehicles simultaneously, without experiencing performance issues 
+  * The smart parking system should be able to handle a large number of users and vehicles simultaneously, without experiencing performance issues 
      or downtime. 
-  ii. This could include features such as load balancing, redundancy, and cloud computing.
-  iii.system is designed in such a way that it will handle the increased user data and add new parking slots.It will support the horizontal scaling.
+  * This could include features such as load balancing, redundancy, and cloud computing.
+  * System is designed in such a way that it will handle the increased user data and add new parking slots.It will support the horizontal scaling.
 
 ### MAINTAINANCE AND SUPPORT:
-   The system should provide reliable maintenance and support services to ensure its smooth operation over time. This could include regular software 
-    updates, hardware maintenance contracts, and customer support hotlines.
+  * The system should provide reliable maintenance and support services to ensure its smooth operation over time. This could include regular 
+     software .
+  * Updates, hardware maintenance contracts, and customer support hotlines.
 
 ### SAFETY:
-   i. The users' login page will be secure from malicious attacks and phishing.
-   ii. Separate environments will be maintained for the system for isolation in reservation and development.
+  * The users' login page will be secure from malicious attacks and phishing.
+  * Separate environments will be maintained for the system for isolation in reservation and development.
 
 

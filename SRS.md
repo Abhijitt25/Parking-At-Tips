@@ -12,7 +12,7 @@ This web application provides the facility to book the online parking slot close
 
 
 ## FUNCTIONAL REQUIREMENTS :
-# USER 🙎‍♂️:
+### USER 🙎‍♂️:
 
  1. User will be able to create a profile & register name using mobile number and email id.
  2. After registration user can book and reserve parking slot close to user destination.
@@ -21,7 +21,7 @@ This web application provides the facility to book the online parking slot close
  5. Users should be able to view the shortest or most convenient route to their reserved parking spot.
  6. If parking area is paid then payment fees will be shown to user and payment done in online mode for reservation of parking slot.
 
-# ADMIN 👨‍💻:
+### ADMIN 👨‍💻:
   1. The system should offer multiple payment options, such as credit cards, mobile wallets, or contactless payments, to make the parking process 
       more convenient for users.
   2. Administrators should allow to monitor parking activity in real-time, including the number of vehicles entering and leaving parking areas, 
@@ -29,7 +29,7 @@ This web application provides the facility to book the online parking slot close
   3. Administrators will analyze parking trends, identify areas of improvement, and make data-driven decisions. 
   4. Administrators will manage user accounts, including adding new users, assigning roles and permissions, and revoking access as needed.
 
- # PARKING OWNER:
+###PARKING OWNER:
  1. Offers promotions and discounts to attract more customers.
  2. By using Smart Parking system, parking owners maximize their revenue by providing real-time occupancy information, dynamic pricing based on 
     demands.

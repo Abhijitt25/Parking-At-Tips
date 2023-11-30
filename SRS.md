@@ -70,8 +70,8 @@ This web application provides the facility to book the online parking slot close
  ii.The system will be able to manage all transactions in isolation.
 
 ### MODULARITY:
- i. This requirement emphasizes the importance of designing the smart parking system as a set of modular components that can be easily integrated, 
-     replaced, or scaled as needed.
+ * This requirement emphasizes the importance of designing the smart parking system as a set of modular components that can be easily integrated, 
+    replaced, or scaled as needed.
  ii. system will adapt to changing requirements and technologies over time, reducing the overall cost of ownership and maintenance. 
  iii. the system should provide clear documentation and support for developers and integrators to facilitate the customization and extension of the 
       system's functionalities.

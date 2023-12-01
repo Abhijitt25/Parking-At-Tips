@@ -1,4 +1,4 @@
-di# PARKING-AT-TIPS
+# PARKING-AT-TIPS
 ## TITLE :
 Parking-At-Tips
 ## OBJECTIVE (Purpose) :

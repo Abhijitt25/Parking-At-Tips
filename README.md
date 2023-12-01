@@ -1,4 +1,4 @@
-# Smart Parking In Metropolitian Cities
+# Parking At Tips
 ## Frontend (HTML and React):
 ## Homepage:
 

@@ -4,7 +4,7 @@ Parking-At-Tips
 ## OBJECTIVE (Purpose) :
 * Smart Parking In Metropolitian Cities is a parking guidance and reservation system in towns. Looking for space to park vehicle can be really hectic in busy town in regard to walking distance to your destination from your vehicle, safety of the vehicle, payment for the service among others. If one happens to be a stranger in town it gets more difficult to operate around the town. The system solves all this parking cycle issues.
 
-* In urban areas parking is the biggest issue which leads to impact on environment(increase in noise as well as air pollution).If we will provide them the right webapp which will help to find the parrking areas along with available paces,it will help to reduse the traffic issue,control the pollution and save the time and fuel also.
+* In urban areas parking is the biggest issue which leads to impact on environment(increase in noise as well as air pollution).If we will provide them the right webapp which will help to find the parking areas along with available spaces,it will help to reduse the traffic issue,control the pollution and save the time and fuel also.
 
 
 ## SCOPE :
@@ -19,27 +19,23 @@ This web application provides the facility to book the online parking slot close
  3. User will able to see parking space and parking area(paid or unpaid) close to user destination.
  4. POP up notification should be send to the registerd user about confirmation of booked parking slot.
  5. Users should be able to view the shortest or most convenient route to their reserved parking spot.
- 6. If parking area is paid then payment fees will be shown to user and payment done in online mode for reservation of parking slot.
+ 6. If parking area is paid then payment will be shown to user and payment done in online mode for reservation of parking slot.
 
 ### ADMIN 👨‍💻:
   1. The system should offer multiple payment options, such as credit cards, mobile wallets to make the parking process 
       more convenient for users.
-  2. Administrators should allow to monitor parking activity in real-time, including the number of vehicles entering and leaving parking areas, 
-     occupancy rates, and revenue generated.
+  2. Administrators should allow to monitor parking activity in real-time, including the number of vehicles entering and leaving parking areas, occupancy rates, and revenue generated.
   3. Administrators will analyze parking trends, identify areas of improvement, and make data-driven decisions. 
   4. Administrators will manage user accounts, including adding new users, assigning roles and permissions, and revoking access as needed.
 
 ### PARKING OWNER:
  1. Offers discounts to attract more customers.
- 2. By using Smart Parking system, parking owners maximize their revenue by providing real-time occupancy information, dynamic pricing based on 
-    demands.
- 3. Parking owners will analyze parking trends, identify areas of improvement, and make informed decisions about pricing strategies, marketing 
-    campaigns, and infrastructure investments by using Smart parking system.
+ 2. By using Smart Parking system, parking owners maximize their revenue by providing real-time occupancy information, dynamic pricing based on demands.
+ 3. Parking owners will analyze parking trends, identify areas of improvement, and make informed decisions about pricing strategies, marketing campaigns and infrastructure investments by using Smart parking system.
 
 ### PAYMENT GATEWAY:
- 1. System will allow all the payment methods that users can choose from to pay for their parking.
- 2. System  would focus on providing a wide range of convenient and secure payment options, such as cash, credit/debit cards, mobile payments, and 
-    digital wallets.
+ 1. System will allow all the payment methods that users can choose to pay for their parking.
+ 2. System  would focus on providing a wide range of convenient and secure payment options, such as cash, credit/debit cards, mobile payments, and digital wallets.
  3. The system should also allow users to choose their preferred payment method and provide them with real-time receipts and notifications. 
 
 ## NONFUNCTIONAL REQUIREMENT:

@@ -38,7 +38,7 @@ This web application provides the facility to book the online parking slot close
  2. System  would focus on providing a wide range of convenient and secure payment options, such as cash, credit/debit cards, mobile payments, and digital wallets.
  3. The system should also allow users to choose their preferred payment method and provide them with real-time receipts and notifications. 
 
-## NONFUNCTIONAL REQUIREMENT:
+## NON-FUNCTIONAL REQUIREMENT:
 ### SECURITY:
    * Users data and other related information will be secured.
    * Only authorised person will perform administrative tasks.
@@ -50,8 +50,8 @@ This web application provides the facility to book the online parking slot close
  * Uptime: 24* 7 available 99.999%
 
 ### PERFORMANCE:
- * The web site should respond to user requests within an acceptable time frame. The web site should handle multiple concurrent users without 
-    significant performance degradation.
+ * The web site should respond to user requests within an acceptable time frame.
+ * The web site should handle multiple concurrent users without  significant performance degradation.
 
 ### PORTABILITY:
  * The system will provide a portable User Interface (HTML, CSS, React) through which users will access the web application.

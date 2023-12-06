@@ -59,7 +59,7 @@ This web application provides the facility to book the online parking slot close
     significant performance degradation.
 
 ### PORTABILITY:
- * The system will provide a portable User Interface (HTML, CSS, Angular) through which users will access the web application.
+ * The system will provide a portable User Interface (HTML, CSS, React) through which users will access the web application.
  
 ### ACCESSIBILITY:
  * Registered and non-registered users will be able to access the website, but if you want to book the parking slot then you need to registered 

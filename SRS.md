@@ -4,7 +4,7 @@ Parking-At-Tips
 ## OBJECTIVE (Purpose) :
 * Smart Parking In Metropolitian Cities is a parking guidance and reservation system in towns. Looking for spaces to park can be really hectic in busy town in regard to walking distance to your destination from your vehicle, safety of the vehicle, payment for the service among others. If one happens to be a stranger in town it gets more difficult to operate around the town. The system solves all this parking cycle issues.
 
-* In urban areas parking is the biggest issue which leads to impact on environment(increase in noice as well as air pollution).If we will provide them the right webapp which will help to find the parrking areas along with available paces,it will help to reduse the traffic issue,control the pollution and save the time also.
+* In urban areas parking is the biggest issue which leads to impact on environment(increase in noice as well as air pollution).If we will provide them the right webapp which will help to find the parrking areas along with available paces,it will help to reduse the traffic issue,control the pollution and save the time and fuel also.
 
 
 ## SCOPE :
@@ -22,7 +22,7 @@ This web application provides the facility to book the online parking slot close
  6. If parking area is paid then payment fees will be shown to user and payment done in online mode for reservation of parking slot.
 
 ### ADMIN 👨‍💻:
-  1. The system should offer multiple payment options, such as credit cards, mobile wallets, or contactless payments, to make the parking process 
+  1. The system should offer multiple payment options, such as credit cards, mobile wallets to make the parking process 
       more convenient for users.
   2. Administrators should allow to monitor parking activity in real-time, including the number of vehicles entering and leaving parking areas, 
      occupancy rates, and revenue generated.
@@ -30,7 +30,7 @@ This web application provides the facility to book the online parking slot close
   4. Administrators will manage user accounts, including adding new users, assigning roles and permissions, and revoking access as needed.
 
 ### PARKING OWNER:
- 1. Offers promotions and discounts to attract more customers.
+ 1. Offers discounts to attract more customers.
  2. By using Smart Parking system, parking owners maximize their revenue by providing real-time occupancy information, dynamic pricing based on 
     demands.
  3. Parking owners will analyze parking trends, identify areas of improvement, and make informed decisions about pricing strategies, marketing 
@@ -48,8 +48,7 @@ This web application provides the facility to book the online parking slot close
    * Only authorised person will perform administrative tasks.
 
 ### RELIABILITY: 
- * The Web Site should be highly available and minimum downtime. Data backups and disaster recovery mechanisms should be in place to prevent data 
-   loss.
+ * The Web Site should be highly available and minimum downtime. Data backups and disaster recovery mechanisms should be in place to prevent data loss.
 
 ### AVAILABILITY:
  * Uptime: 24* 7 available 99.999%
@@ -73,8 +72,7 @@ This web application provides the facility to book the online parking slot close
  * This requirement emphasizes the importance of designing the smart parking system as a set of modular components that can be easily integrated, 
     replaced, or scaled as needed.
  * system will adapt to changing requirements and technologies over time, reducing the overall cost of ownership and maintenance. 
- * the system should provide clear documentation and support for developers and integrators to facilitate the customization and extension of the 
-      system's functionalities.
+ * The system should provide clear documentation and support for developers and integrators to facilitate the customization and extension of the system's functionalities.
 
 ### SCALABILITY:
   * The smart parking system should be able to handle a large number of users and vehicles simultaneously, without experiencing performance issues 
@@ -85,10 +83,10 @@ This web application provides the facility to book the online parking slot close
 ### MAINTAINANCE AND SUPPORT:
   * The system should provide reliable maintenance and support services to ensure its smooth operation over time. This could include regular 
      software .
-  * Updates, hardware maintenance contracts, and customer support hotlines.
+  * Updates, hardware maintenance contracts, and customer support helplines.
 
 ### SAFETY:
   * The users' login page will be secure from malicious attacks and phishing.
-  * Separate environments will be maintained for the system for isolation in reservation and development.
+ 
 
 

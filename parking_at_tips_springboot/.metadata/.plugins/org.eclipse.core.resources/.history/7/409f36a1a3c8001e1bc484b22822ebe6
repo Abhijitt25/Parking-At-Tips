@@ -1,0 +1,46 @@
+package com.demo.model;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity
+public class admin {
+	@Id
+	private int id;
+	private String parking_name;
+	
+	
+	
+	public admin() {
+		super();
+	}
+	
+	
+	public admin(int id, String parking_name) {
+		super();
+		this.id = id;
+		this.parking_name = parking_name;
+	}
+
+
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
+	public String getParking_name() {
+		return parking_name;
+	}
+	public void setParking_name(String parking_name) {
+		this.parking_name = parking_name;
+	}
+
+
+	@Override
+	public String toString() {
+		return "admin [id=" + id + ", parking_name=" + parking_name + "]";
+	}
+	
+	
+}

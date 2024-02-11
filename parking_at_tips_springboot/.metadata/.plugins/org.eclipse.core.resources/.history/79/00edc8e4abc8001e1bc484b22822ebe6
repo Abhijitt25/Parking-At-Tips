@@ -1,0 +1,43 @@
+package com.demo.model;
+
+import java.util.List;
+
+import javax.persistence.CascadeType;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.JoinTable;
+import javax.persistence.ManyToMany;
+import javax.persistence.OneToOne;
+
+@Entity
+public class Parking_names {
+
+	@Id
+	private int pid;
+	private String name;
+	private String address;
+	private String mobile_number;
+	private String location;
+	
+	@OneToOne(cascade = CascadeType.ALL)
+	@JoinColumn(name="admainId")
+	private admin adminId;
+	
+	@ManyToMany(cascade = CascadeType.ALL)
+	@JoinTable(name="parking_name_user",joinColumns = @JoinColumn(name="parking_name_id"),inverseJoinColumns = @JoinColumn(name="user_id"))
+	private List<Users> users;
+
+	public Parking_names() {
+		super();
+	}
+
+	
+
+	
+	
+	
+	
+	
+	
+}

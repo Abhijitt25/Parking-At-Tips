@@ -35,8 +35,6 @@ This web application provides the facility to book the online parking slot close
 
 ### PAYMENT GATEWAY:
  1. System will allow all the payment methods that users can choose to pay for their parking.
- 2. System  would focus on providing a wide range of convenient and secure payment options, such as cash, credit/debit cards, mobile payments, and digital wallets.
- 3. The system should also allow users to choose their preferred payment method and provide them with real-time receipts and notifications. 
 
 ## NON-FUNCTIONAL REQUIREMENT:
 ### SECURITY:
